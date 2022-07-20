@@ -10,8 +10,8 @@
 # updated_fname=first_name.upper
 # print(updated_fname)
 
-first_name="Jawahar"
-last_name="Gaur"
-a=first_name.center()
-print(a)
-# f string
+# first_name="Jawahar"
+# last_name="Gaur"
+# a=first_name.center()
+# print(a)
+
